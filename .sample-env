@@ -1,0 +1,5 @@
+(* => Mandatory)
+SHYFT_ONBOARD_API_KEY=''      // onboard api key
+SHYFT_ZAPPER_API_KEY=''        // zapper api key
+SHYFT_INFURA_KEY=''           // infura key
+SHYFT_NETWORK_NAME=''         // network name

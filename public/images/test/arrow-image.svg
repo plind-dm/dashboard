@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg99"
+   width="225"
+   height="225"
+   viewBox="0 0 225 225"
+   sodipodi:docname="arrow-image.svg"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs103">
+    <inkscape:path-effect
+       effect="powerstroke"
+       id="path-effect1031"
+       is_visible="true"
+       lpeversion="1"
+       offset_points="0,18.8679"
+       not_jump="false"
+       sort_points="true"
+       interpolator_type="CubicBezierJohan"
+       interpolator_beta="0.2"
+       start_linecap_type="zerowidth"
+       linejoin_type="extrp_arc"
+       miter_limit="4"
+       scale_width="1"
+       end_linecap_type="zerowidth" />
+    <inkscape:path-effect
+       effect="powerstroke"
+       id="path-effect1025"
+       is_visible="true"
+       lpeversion="1"
+       offset_points="1,18.8679"
+       not_jump="false"
+       sort_points="true"
+       interpolator_type="CubicBezierJohan"
+       interpolator_beta="0.2"
+       start_linecap_type="zerowidth"
+       linejoin_type="extrp_arc"
+       miter_limit="4"
+       scale_width="1"
+       end_linecap_type="zerowidth" />
+  </defs>
+  <sodipodi:namedview
+     id="namedview101"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="3.0224012"
+     inkscape:cx="63.691081"
+     inkscape:cy="101.07857"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="Image 3"
+     style="display:inline"
+     sodipodi:insensitive="true">
+    <ellipse
+       style="fill:#333333;stroke:#808080;stroke-width:0.995575"
+       id="path5160"
+       cx="112.49995"
+       cy="112.5"
+       ry="112.00221"
+       rx="112.002" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer1"
+     inkscape:label="Image 1"
+     style="display:inline">
+    <rect
+       style="fill:#cccccc;fill-opacity:1;stroke:#cccccc;stroke-width:0.315106;stroke-linejoin:round;stroke-opacity:1"
+       id="rect14092"
+       width="9.6848946"
+       height="99.684891"
+       x="107.69401"
+       y="61.657555"
+       ry="5.3110795"
+       rx="4.8424473" />
+    <rect
+       style="fill:#cccccc;fill-opacity:1;stroke:#cccccc;stroke-width:0.236329;stroke-linejoin:round;stroke-opacity:1"
+       id="rect14174"
+       width="7.2636704"
+       height="74.763672"
+       x="173.93698"
+       y="11.115973"
+       ry="3.98331"
+       rx="3.6318352"
+       transform="rotate(30)" />
+    <rect
+       style="fill:#cccccc;fill-opacity:1;stroke:#cccccc;stroke-width:0.236329;stroke-linejoin:round;stroke-opacity:1"
+       id="rect14176"
+       width="7.2636704"
+       height="74.763672"
+       x="13.718227"
+       y="123.65245"
+       ry="3.98331"
+       rx="3.6318352"
+       transform="rotate(-30)" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Image 2"
+     style="display:inline"
+     sodipodi:insensitive="true" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer4"
+     inkscape:label="Image 4"
+     style="display:inline"
+     sodipodi:insensitive="true">
+    <ellipse
+       style="display:inline;fill:none;stroke:#4d4d4d;stroke-width:0.995578"
+       id="circle10885"
+       cx="112.50005"
+       cy="112.4999"
+       ry="112.00214"
+       rx="112.00221" />
+  </g>
+</svg>
